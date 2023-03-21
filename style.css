@@ -178,3 +178,42 @@ a:hover{
     font-style: normal;
 }
 /* contact section */
+
+/* footer section */
+
+footer{
+    width:100%;
+    background-color: var(--black);
+  text-align: center;
+  padding: 15px;
+  margin: 0;
+}
+
+
+
+
+footer address .row{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    
+}
+
+footer address h3{
+font-family: var(--sans);
+font-style: normal;
+font-weight: lighter;
+}
+
+
+footer address p{
+    font-family: var(--sans);
+    font-size:medium;
+    font-style: normal;
+    }
+    
+    
+
+
+
+/* footer section */
